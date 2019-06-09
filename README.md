@@ -7,3 +7,4 @@ I'm using the U-Net network as it was developed for biomedical image segmentatio
 ## Further improvements
 - figure out how to restrict mask to the continuous closed area — it may help with mask consistency
 - try different model topologies
+- translate comments to English?
